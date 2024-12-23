@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "g9BSiJedEQWE9HI6W989sW3MpwaO5vs7tGM7sMmIfRDGFWDof4ZxGBo2lu+AIz2N+ruV2vI0uPN6iE+EeUotCg==",
+  "dgSpecHash": "T3dlwkwVS3Gd4B5PO0Ok+0tBCLBzfteirL1Kv6Rux/tKgRHm/IyR8LozSlqKwvSmwX5EUUrIskHAAiVMxjpLzg==",
   "success": true,
   "projectFilePath": "/home/evgeny/Work/gtk-sharp/gtk-sharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/evgeny/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
+    "/home/evgeny/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
+    "/home/evgeny/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
+    "/home/evgeny/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
+    "/home/evgeny/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
+    "/home/evgeny/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
+    "/home/evgeny/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512"
+  ],
   "logs": []
 }
