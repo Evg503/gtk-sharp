@@ -1,0 +1,20 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+        {
+            "type": "dotnet",
+            "task": "build /home/evgeny/Work/gtk-sharp/gtk-sharp.csproj",
+            "file": "/home/evgeny/Work/gtk-sharp/gtk-sharp.csproj",
+            "group": "build",
+            "problemMatcher": [],
+            "label": "dotnet: build /home/evgeny/Work/gtk-sharp/gtk-sharp.csproj"
+        },
+        {
+            "type": "dotnet",
+            "task": "build",
+            "group": "build",
+            "problemMatcher": [],
+            "label": "dotnet: build"
+        }
+    ]
+}
